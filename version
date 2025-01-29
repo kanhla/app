@@ -1,5 +1,5 @@
 {
-"fake":true,
+"fake":false,
 "version":1.0,
 "versionDetails":"hello",
 "versionUrl":"https://play.google.com/store/apps/details?id=com.camerasideas.instashot&pcampaignid=web_share"
